@@ -1,0 +1,11 @@
+PrincessLeia
+Brown
+Shooting
+HanSolo
+1000
+50
+65
+Gun
+HanSolo
+50
+25
